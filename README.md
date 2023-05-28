@@ -1,10 +1,10 @@
-# Repository Name
+# Bash scripts repository
 
-System Automation and Monitoring Scripts
+System Automation and Monitoring Scripts (mostly)
 
 ## Description
 
-Welcome to the System Automation and Monitoring Scripts repository! This collection houses a set of Bash scripts that are designed to automate system tasks and provide monitoring capabilities. These scripts have been developed to simplify and streamline various operations in a system environment. By leveraging the power and flexibility of Bash scripting, these tools aim to boost productivity and enhance the efficiency of managing and monitoring system activities.
+Welcome to the System Automation and Monitoring Scripts repository! This collection houses a set of Bash scripts that are designed to automate system tasks and provide monitoring capabilities. These scripts are in development to simplify and streamline various operations in a system environment. By leveraging the power and flexibility of Bash scripting, these tools aim to boost productivity and enhance the efficiency of managing and monitoring system activities.
 
 ## Table of Contents
 
@@ -20,15 +20,13 @@ To utilize the scripts in this repository, follow these installation steps:
 
 1. Clone the repository using the command below:
    
-`git clone https://github.com/your-username/repository-name.git`
-
+`git clone https://github.com/SebastianSkowron/bash_scripts.git`
 
 2. Ensure that Bash is installed on your system as these scripts are specifically tailored for the Bash shell.
 
 3. Navigate to the cloned repository directory:
 
-`cd repository-name`
-
+`cd bash_scripts`
 
 4. You are now ready to access and execute the scripts.
 
@@ -36,21 +34,23 @@ To utilize the scripts in this repository, follow these installation steps:
 
 Each script in this repository serves a specific purpose and can be used independently. Before running a script, ensure that you have the necessary permissions and a clear understanding of its functionality.
 
+`chmod +x script-name.sh`
+
 To execute a script, open a terminal, navigate to the repository directory, and run the following command:
 
 `./script-name.sh`
-
 
 Replace `script-name.sh` with the actual script filename you wish to execute.
 
 ## Scripts
 
-The repository contains the following scripts:
+The repository <b>will contains</b> the following scripts:
 
 1. **script1.sh**: Description of script 1.
 2. **script2.sh**: Description of script 2.
 3. **script3.sh**: Description of script 3.
-
+4. ...
+5. 
 Feel free to explore each script file to understand its purpose and how it can be utilized.
 
 ## Contributing
